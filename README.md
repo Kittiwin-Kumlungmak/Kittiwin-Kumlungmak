@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Kittiwin-Kumlungmak
 - 👀 I’m interested in Data Science, Aerospace, and Robotcis.
-- 🌱 I’m currently study deep reinforcement learning for trading.
-
+- 🌱 I’m currently a graduate student at Chulalongkorn University majoring computer science.
