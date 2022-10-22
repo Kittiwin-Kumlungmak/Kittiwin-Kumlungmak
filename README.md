@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Kittiwin-Kumlungmak
-- 👀 I’m interested in Data Science, Aerospace, and Robotcis.
+- 👀 I’m interested in Data Science, Aerospace, AI, and Robotics.
 - 🌱 I’m currently a graduate student at Chulalongkorn University majoring computer science.
